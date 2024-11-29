@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+.env
+
+# Django
+*.pyc
+__pycache__/
+.env
+
+# Logs
+*.log
